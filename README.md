@@ -1,4 +1,4 @@
-# nspire-games
+# ti-games
 
 ### Brick Blitz — what's in it:
 
